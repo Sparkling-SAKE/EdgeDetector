@@ -1,4 +1,5 @@
 # EdgeDetector
+### 2022-2 ComputerVision Final Term Project
 
 ## Input Image
 ![test_bath](https://user-images.githubusercontent.com/80191452/210599555-fe0a8e06-0e73-405a-88e9-2886cef91ec8.PNG)
